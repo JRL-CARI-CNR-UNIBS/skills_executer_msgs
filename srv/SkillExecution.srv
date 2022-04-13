@@ -1,0 +1,6 @@
+string skill_name
+string action_name
+---
+int8 result
+int8 Success=0
+int8 Fail=-1
